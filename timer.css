@@ -1,0 +1,41 @@
+#heading
+{
+    background-color: rgb(57, 57, 161);
+    text-align: center;
+}
+
+#input-taking 
+{
+    height: 20px;
+}
+
+#buttons
+{
+
+    height: 20px;
+    background-color: black;
+    color: white;
+}
+#timer
+{
+    margin-left:42%;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+    text-align: center;
+    background-color:black;
+    color: white;
+    font-size: 50px;
+    line-height: 200px;
+
+}
+
+#timer-content
+{
+    
+    height: 200px;
+    text-align: center;
+
+}
+
